@@ -1,0 +1,15 @@
+{
+  "name": "restaurent-server",
+  "version": "1.0.0",
+  "description": "server for restaurent app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "nodemon": "^3.0.1"
+  }
+}
